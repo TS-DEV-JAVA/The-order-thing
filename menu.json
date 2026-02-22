@@ -7,6 +7,8 @@
         {"id": 5, "name": "Nuggets 9 PCS", "price": 90},
         {"id": 6, "name": "Fries Small", "price": 20},
 		{"id": 7, "name": "Fries Mediuem", "price": 40},
-		{"id": 8, "name": "Fries Large", "price": 60}
+		{"id": 8, "name": "Fries Large", "price": 60},
+		{"id": 9, "name": "Tea", "price": 25}
     ]
+
 }
