@@ -1,0 +1,12 @@
+{
+    "menu": [
+        {"id": 1, "name": "Cheeseburger", "price": 75},
+		{"id": 2, "name": "Double Cheeseburger", "price": 120},
+        {"id": 3, "name": "Nuggets 4 PCS", "price": 50},
+        {"id": 4, "name": "Nuggets 6 PCS", "price": 70},
+        {"id": 5, "name": "Nuggets 9 PCS", "price": 90},
+        {"id": 6, "name": "Fries Small", "price": 20},
+		{"id": 7, "name": "Fries Mediuem", "price": 40},
+		{"id": 8, "name": "Fries Large", "price": 60}
+    ]
+}
